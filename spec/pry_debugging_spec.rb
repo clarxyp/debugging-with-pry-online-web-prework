@@ -7,9 +7,13 @@ describe "#plus_two" do
 	end
 
 def plus_two(num)
+<<<<<<< HEAD
   num = num + 2
   puts num
   
+=======
+  return num + 2
+>>>>>>> c7372ab1631ace2a3590a1c03ac752fdc08401bc
 end
 
 end
